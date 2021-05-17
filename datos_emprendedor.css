@@ -1,0 +1,49 @@
+/*fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+/*font rules */
+/* font-family: 'Montserrat', sans-serif;  */
+
+
+*{
+    padding: none;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    background-color: #CCCCCC;
+}
+
+
+
+.imagen{
+    
+    color: blanchedalmond;
+    background-image: url("img/bg_header.png") ;
+
+
+    
+    height: 14rem;
+}
+
+
+.card{
+    background-color: #FFFFFF;
+    height: 600px;
+    margin: 1em;
+    top: -3em;
+}
+
+/*perfil picture*/
+.pp{
+    text-align: center;
+}
+
+.instruccion{
+    text-align: center;
+    margin-top: 2em;
+    font-size: 16pt;
+}
+
+.text_center{
+    text-align: center;
+}
