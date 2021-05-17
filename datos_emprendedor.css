@@ -34,6 +34,19 @@ body{
 }
 
 /*perfil picture*/
+
+.avatar{
+    background-color: blue;
+    height: 6em;
+    width: 6em;
+    border-radius: 100%;
+    text-align: center;
+    margin: auto;
+    margin-top: -3em;
+
+}
+
+
 .pp{
     text-align: center;
 }
